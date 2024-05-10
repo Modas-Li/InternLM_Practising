@@ -51,10 +51,31 @@ AWQ量化执行过程：
 
 
 第六节课：
+启动lmdeploy服务：
+![image](https://github.com/Modas-Li/InternLM_Practising/assets/40042370/58e372ad-43f4-4a7d-ab76-1ad2e861640c)
+启动lagent web demo服务：
+![image](https://github.com/Modas-Li/InternLM_Practising/assets/40042370/6690c04f-37e0-455f-a8b3-8ed5b13fc1af)
+使用lagent web demo搜索 InternLM2 Technical Report：
+![image](https://github.com/Modas-Li/InternLM_Practising/assets/40042370/c2337890-c72e-4aab-a87d-53cf97021e6e)
+用 Lagent 自定义和风天气查询工具：
+![image](https://github.com/Modas-Li/InternLM_Practising/assets/40042370/07fc8665-b6aa-4c04-96f0-b51c5eeab86d)
 
+交通识别：
+![image](https://github.com/Modas-Li/InternLM_Practising/assets/40042370/801aeaa7-641d-4de8-8337-e7646869ae3f)
+自定义object detection工具：
+![image](https://github.com/Modas-Li/InternLM_Practising/assets/40042370/7d91a572-2e7a-48dc-89ff-9c55318feeef)
+![image](https://github.com/Modas-Li/InternLM_Practising/assets/40042370/79245b71-6828-422f-b921-249ba8df000f)
+
+绘画工具：
+![image](https://github.com/Modas-Li/InternLM_Practising/assets/40042370/0034449d-d3bb-44e7-b056-1556672eb567)
 
 
 第七节课：
+配置环境并下载数据集：
+![image](https://github.com/Modas-Li/InternLM_Practising/assets/40042370/9a7333b2-80f5-47df-a39d-e99cad4d2608)
+
+opencompass评测：
+![image](https://github.com/Modas-Li/InternLM_Practising/assets/40042370/18d1f036-0bb9-4675-8fbf-357a80c9429a)
 
 
 
