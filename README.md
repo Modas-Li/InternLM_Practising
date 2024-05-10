@@ -33,3 +33,29 @@ HuixiangDou可以与飞书或个人微信集成，发送技术助手的回复。
 ![image](https://github.com/Modas-Li/InternLM_Practising/assets/40042370/5c003160-7a74-4b4a-a2c5-5383a8f28424)
 web demo:
 ![image](https://github.com/Modas-Li/InternLM_Practising/assets/40042370/f17bc94e-bfc8-441f-a3d2-c5ea6a1cd64b)
+
+第五节课：
+推理速度明显增快：
+![image](https://github.com/Modas-Li/InternLM_Practising/assets/40042370/a2cb496a-17eb-4316-88be-0a1948b34029)
+未设置情况下显存占用：
+![image](https://github.com/Modas-Li/InternLM_Practising/assets/40042370/83c75400-1387-4356-8326-d2a58c6d7b58)
+把--cache-max-entry-count参数设置为0.01，约等于禁止KV Cache占用显存：
+![image](https://github.com/Modas-Li/InternLM_Practising/assets/40042370/2f8719bc-fc40-4410-9707-c0ad74349fd0)
+AWQ量化执行过程：
+![image](https://github.com/Modas-Li/InternLM_Practising/assets/40042370/bacbfd67-1555-48fe-acff-f7c9e1a9273a)
+显存占用变化：
+![image](https://github.com/Modas-Li/InternLM_Practising/assets/40042370/3f2181e0-636c-458c-8609-b0838fabaf54)
+![image](https://github.com/Modas-Li/InternLM_Practising/assets/40042370/906ba91d-ddb5-48dc-b082-c5cb3177f470)
+服务器API部署：
+![image](https://github.com/Modas-Li/InternLM_Practising/assets/40042370/0c1271f5-6d74-4e4b-9d87-7e25293578e8)
+
+
+第六节课：
+
+
+
+第七节课：
+
+
+
+
