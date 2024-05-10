@@ -75,7 +75,7 @@ AWQ量化执行过程：
 ![image](https://github.com/Modas-Li/InternLM_Practising/assets/40042370/9a7333b2-80f5-47df-a39d-e99cad4d2608)
 
 opencompass评测：
-![image](https://github.com/Modas-Li/InternLM_Practising/assets/40042370/18d1f036-0bb9-4675-8fbf-357a80c9429a)
+![image](https://github.com/Modas-Li/InternLM_Practising/assets/40042370/8109811a-49eb-493d-9311-97a0e96d9337)
 
 
 
